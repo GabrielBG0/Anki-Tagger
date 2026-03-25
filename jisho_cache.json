@@ -3643,5 +3643,1700 @@
     "jlpt": "n5",
     "is_common": true,
     "matched": "fallback:電話(slug=電話)"
+  },
+  "料理する": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "fallback:料理(slug=料理)"
+  },
+  "止める": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "止める"
+  },
+  "踊る": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "踊る"
+  },
+  "終わる": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "終わる"
+  },
+  "人気がある": {
+    "jlpt": null,
+    "is_common": false,
+    "matched": "人気がある"
+  },
+  "引く": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "引く"
+  },
+  "始まる": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "始まる"
+  },
+  "貰う": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "貰う"
+  },
+  "覚える": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "覚える"
+  },
+  "運動する": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "fallback:運動(slug=運動)"
+  },
+  "吹く": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "吹く"
+  },
+  "叩く": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "叩く"
+  },
+  "触る": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "触る"
+  },
+  "負ける": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "負ける"
+  },
+  "送る": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "送る"
+  },
+  "入れる": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "入れる"
+  },
+  "似る": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "似る"
+  },
+  "練習する": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "fallback:練習(slug=練習)"
+  },
+  "釣る": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "釣る"
+  },
+  "ダイエットする": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "fallback:ダイエット(slug=ダイエット)"
+  },
+  "お腹が空く": {
+    "jlpt": null,
+    "is_common": false,
+    "matched": "お腹が空く"
+  },
+  "上る": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "上る"
+  },
+  "疲れる": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "疲れる"
+  },
+  "うそつく": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "fallback:嘘(slug=嘘)"
+  },
+  "サボる": {
+    "jlpt": "n1",
+    "is_common": true,
+    "matched": "サボる"
+  },
+  "遅刻する": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "fallback:遅刻(slug=遅刻)"
+  },
+  "かう": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "かう"
+  },
+  "喧嘩する": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "fallback:喧嘩(slug=喧嘩)"
+  },
+  "紹介する": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "fallback:紹介(slug=紹介)"
+  },
+  "無くす": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "無くす"
+  },
+  "心配する": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "fallback:心配(slug=心配)"
+  },
+  "緊張する": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "fallback:緊張(slug=緊張)"
+  },
+  "興味がある": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "fallback:興味(slug=興味)"
+  },
+  "歩く": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "歩く"
+  },
+  "熱がある": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "fallback:熱(slug=熱)"
+  },
+  "喉が渇く": {
+    "jlpt": null,
+    "is_common": false,
+    "matched": "喉が渇く"
+  },
+  "風邪をひく": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "風邪をひく"
+  },
+  "せきが出る": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "fallback:席(slug=席)"
+  },
+  "つく": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "つく"
+  },
+  "編む": {
+    "jlpt": "n2",
+    "is_common": true,
+    "matched": "編む"
+  },
+  "頑張る": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "頑張る"
+  },
+  "鳴く": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "鳴く"
+  },
+  "感動する": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "fallback:感動(slug=感動)"
+  },
+  "約束を守る": {
+    "jlpt": null,
+    "is_common": false,
+    "matched": "約束を守る"
+  },
+  "消去する": {
+    "jlpt": "n1",
+    "is_common": true,
+    "matched": "fallback:消去(slug=消去)"
+  },
+  "誘う": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "誘う"
+  },
+  "相談する": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "fallback:相談(slug=相談)"
+  },
+  "諦める": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "諦める"
+  },
+  "似合う": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "似合う"
+  },
+  "探す": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "探す"
+  },
+  "観光する": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "fallback:観光(slug=観光)"
+  },
+  "死ぬ": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "死ぬ"
+  },
+  "お早うございます": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "お早うございます"
+  },
+  "今日は": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "今日は"
+  },
+  "今晩は": {
+    "jlpt": "n2",
+    "is_common": true,
+    "matched": "今晩は"
+  },
+  "お休みなさい": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "お休みなさい"
+  },
+  "済みません": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "済みません"
+  },
+  "ぃただきます": {
+    "jlpt": null,
+    "is_common": false,
+    "matched": "not_found"
+  },
+  "ご馳走様でした": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "ご馳走様でした"
+  },
+  "行ってきます": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "行ってきます"
+  },
+  "行ってらっしゃい": {
+    "jlpt": "n2",
+    "is_common": true,
+    "matched": "行ってらっしゃい"
+  },
+  "只今": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "只今"
+  },
+  "お帰りなさい": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "お帰りなさい"
+  },
+  "さよなら": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "さよなら"
+  },
+  "有難うございます": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "有難うございます"
+  },
+  "はじめまして,..., よろしくおねがいします": {
+    "jlpt": "n2",
+    "is_common": true,
+    "matched": "fallback:初めまして(slug=初めまして)"
+  },
+  "晩": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "晩"
+  },
+  "晩御飯": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "晩御飯"
+  },
+  "珈琲": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "珈琲"
+  },
+  "ジュース": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "ジュース"
+  },
+  "牛乳": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "牛乳"
+  },
+  "お茶": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "お茶"
+  },
+  "お酒": {
+    "jlpt": "n5",
+    "is_common": false,
+    "matched": "お酒"
+  },
+  "麦酒": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "麦酒"
+  },
+  "ウイスキー": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "ウイスキー"
+  },
+  "ワイン": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "ワイン"
+  },
+  "ハンバーガー": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "ハンバーガー"
+  },
+  "アイスクリーム": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "アイスクリーム"
+  },
+  "テレビ": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "テレビ"
+  },
+  "雑誌": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "雑誌"
+  },
+  "スポーツ": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "スポーツ"
+  },
+  "サッカー": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "サッカー"
+  },
+  "テニス": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "テニス"
+  },
+  "スイミング": {
+    "jlpt": null,
+    "is_common": false,
+    "matched": "スイミング"
+  },
+  "バスケットボール": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "バスケットボール"
+  },
+  "デト": {
+    "jlpt": null,
+    "is_common": false,
+    "matched": "fallback:デトリタス(slug=デトリタス)"
+  },
+  "アメリカ": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "アメリカ"
+  },
+  "イギリス": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "イギリス"
+  },
+  "オーストラリア": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "オーストラリア"
+  },
+  "スウェーデン": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "スウェーデン"
+  },
+  "ブラジル": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "ブラジル"
+  },
+  "トイレ": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "トイレ"
+  },
+  "カフェ": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "カフェ"
+  },
+  "バー": {
+    "jlpt": "n1",
+    "is_common": true,
+    "matched": "バー"
+  },
+  "ジンズ": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "fallback:仁(slug=仁)"
+  },
+  "メニュー": {
+    "jlpt": "n2",
+    "is_common": true,
+    "matched": "メニュー"
+  },
+  "のーと": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "fallback:ノート(slug=ノート)"
+  },
+  "ぺん": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "fallback:ペン(slug=ペン)"
+  },
+  "コンピューター": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "コンピューター"
+  },
+  "タキシー": {
+    "jlpt": null,
+    "is_common": false,
+    "matched": "タキシー"
+  },
+  "バス": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "バス"
+  },
+  "バイク": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "バイク"
+  },
+  "スキー": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "スキー"
+  },
+  "ミルク": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "ミルク"
+  },
+  "〜さい": {
+    "jlpt": "n1",
+    "is_common": true,
+    "matched": "fallback:差異(slug=差異)"
+  },
+  "専攻": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "専攻"
+  },
+  "韓国": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "韓国"
+  },
+  "主婦": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "主婦"
+  },
+  "大学院生": {
+    "jlpt": null,
+    "is_common": false,
+    "matched": "大学院生"
+  },
+  "弁護士": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "弁護士"
+  },
+  "豚カツ": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "豚カツ"
+  },
+  "野菜": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "野菜"
+  },
+  "鉛筆": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "鉛筆"
+  },
+  "傘": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "傘"
+  },
+  "鞄": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "鞄"
+  },
+  "財布": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "財布"
+  },
+  "辞書": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "辞書"
+  },
+  "時計": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "時計"
+  },
+  "帽子": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "帽子"
+  },
+  "喫茶店": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "喫茶店"
+  },
+  "銀行": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "銀行"
+  },
+  "図書館": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "図書館"
+  },
+  "郵便局": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "郵便局"
+  },
+  "いらっしゃいませ": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "いらっしゃいませ"
+  },
+  "〜をおねがいします": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "fallback:を(slug=を)"
+  },
+  "〜をください": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "fallback:を(slug=を)"
+  },
+  "じゃあ": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "じゃあ"
+  },
+  "どうぞ": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "どうぞ"
+  },
+  "どうも": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "どうも"
+  },
+  "いえ": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "いえ"
+  },
+  "こんばん": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "こんばん"
+  },
+  "週末": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "週末"
+  },
+  "毎年": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "毎年"
+  },
+  "いいえ": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "いいえ"
+  },
+  "一昨日": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "一昨日"
+  },
+  "昨日": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "昨日"
+  },
+  "明後日": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "明後日"
+  },
+  "先々週": {
+    "jlpt": "n2",
+    "is_common": false,
+    "matched": "先々週"
+  },
+  "再来週": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "再来週"
+  },
+  "先々月": {
+    "jlpt": "n2",
+    "is_common": false,
+    "matched": "先々月"
+  },
+  "再来月": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "再来月"
+  },
+  "一昨年": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "一昨年"
+  },
+  "再来年": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "再来年"
+  },
+  "船": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "船"
+  },
+  "飛行機": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "飛行機"
+  },
+  "隣": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "隣"
+  },
+  "お寺": {
+    "jlpt": null,
+    "is_common": false,
+    "matched": "お寺"
+  },
+  "スーパー": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "スーパー"
+  },
+  "デパート": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "デパート"
+  },
+  "バス停": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "バス停"
+  },
+  "ホテル": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "ホテル"
+  },
+  "レストラン": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "レストラン"
+  },
+  "公園": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "公園"
+  },
+  "本屋": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "本屋"
+  },
+  "人": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "人"
+  },
+  "子供": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "子供"
+  },
+  "おとこの人": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "fallback:男の人(slug=男の人)"
+  },
+  "おんなの人": {
+    "jlpt": "n2",
+    "is_common": true,
+    "matched": "fallback:女の人(slug=女の人)"
+  },
+  "犬": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "犬"
+  },
+  "猫": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "猫"
+  },
+  "机": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "机"
+  },
+  "テーブル": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "テーブル"
+  },
+  "椅子": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "椅子"
+  },
+  "お土産": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "お土産"
+  },
+  "クラス": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "クラス"
+  },
+  "アルバイト": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "アルバイト"
+  },
+  "メール": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "メール"
+  },
+  "パン": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "パン"
+  },
+  "御免なさい": {
+    "jlpt": "n3",
+    "is_common": false,
+    "matched": "御免なさい"
+  },
+  "写真": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "写真"
+  },
+  "沢山": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "沢山"
+  },
+  "一人で": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "一人で"
+  },
+  "一緒に": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "一緒に"
+  },
+  "アニメーション映画": {
+    "jlpt": null,
+    "is_common": false,
+    "matched": "アニメーション映画"
+  },
+  "ぼけんえいが": {
+    "jlpt": null,
+    "is_common": false,
+    "matched": "fallback:母権(slug=母権)"
+  },
+  "Ｋ-ＰＯＰ": {
+    "jlpt": null,
+    "is_common": false,
+    "matched": "Ｋ-ＰＯＰ"
+  },
+  "ＰＯＰ": {
+    "jlpt": null,
+    "is_common": false,
+    "matched": "ＰＯＰ"
+  },
+  "カーリング": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "カーリング"
+  },
+  "功夫": {
+    "jlpt": "n2",
+    "is_common": true,
+    "matched": "功夫"
+  },
+  "葉書": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "葉書"
+  },
+  "サーフィン": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "サーフィン"
+  },
+  "切符": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "切符"
+  },
+  "部屋": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "部屋"
+  },
+  "曲": {
+    "jlpt": "n1",
+    "is_common": true,
+    "matched": "曲"
+  },
+  "アパート": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "アパート"
+  },
+  "食堂": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "食堂"
+  },
+  "コンビニ": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "コンビニ"
+  },
+  "眼鏡": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "眼鏡"
+  },
+  "かみ": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "かみ"
+  },
+  "サークル": {
+    "jlpt": "n2",
+    "is_common": true,
+    "matched": "サークル"
+  },
+  "キャップ": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "キャップ"
+  },
+  "スカート": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "スカート"
+  },
+  "スニーカー": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "スニーカー"
+  },
+  "バスケットシューズ": {
+    "jlpt": null,
+    "is_common": false,
+    "matched": "バスケットシューズ"
+  },
+  "トレーナー": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "トレーナー"
+  },
+  "指輪": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "指輪"
+  },
+  "腕時計": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "腕時計"
+  },
+  "ピアス": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "ピアス"
+  },
+  "イヤリンぐ": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "fallback:具(slug=具)"
+  },
+  "ブラスレット": {
+    "jlpt": null,
+    "is_common": false,
+    "matched": "not_found"
+  },
+  "ヘッドホン": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "ヘッドホン"
+  },
+  "イヤホン": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "イヤホン"
+  },
+  "サングラス": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "サングラス"
+  },
+  "黒髪": {
+    "jlpt": null,
+    "is_common": false,
+    "matched": "黒髪"
+  },
+  "赤毛": {
+    "jlpt": null,
+    "is_common": false,
+    "matched": "赤毛"
+  },
+  "はくはつ・ホワイトヘア": {
+    "jlpt": "n2",
+    "is_common": true,
+    "matched": "fallback:白髪(slug=白髪)"
+  },
+  "金髪": {
+    "jlpt": null,
+    "is_common": false,
+    "matched": "金髪"
+  },
+  "ちゃぽつ": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "fallback:茶(slug=茶)"
+  },
+  "靴": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "靴"
+  },
+  "パーカー": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "パーカー"
+  },
+  "ぼこく": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "ぼこく"
+  },
+  "お先に": {
+    "jlpt": "n2",
+    "is_common": true,
+    "matched": "お先に"
+  },
+  "かじ": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "かじ"
+  },
+  "乾杯": {
+    "jlpt": "n2",
+    "is_common": true,
+    "matched": "乾杯"
+  },
+  "カメラ": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "カメラ"
+  },
+  "カラオケ": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "カラオケ"
+  },
+  "パーティー": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "パーティー"
+  },
+  "ＢＢＱ": {
+    "jlpt": null,
+    "is_common": false,
+    "matched": "ＢＢＱ"
+  },
+  "トマト": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "トマト"
+  },
+  "はし": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "はし"
+  },
+  "ホームステイ": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "ホームステイ"
+  },
+  "冬": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "冬"
+  },
+  "春": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "春"
+  },
+  "秋": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "秋"
+  },
+  "黒板": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "黒板"
+  },
+  "天気予報": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "天気予報"
+  },
+  "お年寄り": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "お年寄り"
+  },
+  "色": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "色"
+  },
+  "コンサート": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "コンサート"
+  },
+  "歌舞伎": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "歌舞伎"
+  },
+  "ギター": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "ギター"
+  },
+  "テスト": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "テスト"
+  },
+  "試験": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "試験"
+  },
+  "単語": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "単語"
+  },
+  "言葉": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "言葉"
+  },
+  "ピザ": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "ピザ"
+  },
+  "薬": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "薬"
+  },
+  "後": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "後"
+  },
+  "友達": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "友達"
+  },
+  "にじかん": {
+    "jlpt": null,
+    "is_common": false,
+    "matched": "fallback:二次関数(slug=二次関数)"
+  },
+  "花瓶": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "花瓶"
+  },
+  "きゅうこう": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "きゅうこう"
+  },
+  "砂糖": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "砂糖"
+  },
+  "かれたち": {
+    "jlpt": null,
+    "is_common": false,
+    "matched": "not_found"
+  },
+  "かのじょたち": {
+    "jlpt": "n1",
+    "is_common": true,
+    "matched": "fallback:彼の(slug=彼の)"
+  },
+  "私たち": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "私たち"
+  },
+  "しんせつ": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "しんせつ"
+  },
+  "会長": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "会長"
+  },
+  "じこく": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "じこく"
+  },
+  "こっか": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "こっか"
+  },
+  "し": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "し"
+  },
+  "湖": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "湖"
+  },
+  "温泉": {
+    "jlpt": "n2",
+    "is_common": true,
+    "matched": "温泉"
+  },
+  "キャンプ": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "キャンプ"
+  },
+  "お菓子": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "お菓子"
+  },
+  "釣り": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "釣り"
+  },
+  "夢": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "夢"
+  },
+  "宇宙飛行士": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "宇宙飛行士"
+  },
+  "消防士": {
+    "jlpt": null,
+    "is_common": false,
+    "matched": "消防士"
+  },
+  "女優": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "女優"
+  },
+  "俳優": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "俳優"
+  },
+  "看護士": {
+    "jlpt": null,
+    "is_common": false,
+    "matched": "看護士"
+  },
+  "警察官": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "警察官"
+  },
+  "野球選手": {
+    "jlpt": null,
+    "is_common": false,
+    "matched": "野球選手"
+  },
+  "大統領": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "大統領"
+  },
+  "漫画家": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "漫画家"
+  },
+  "ジャーナリスト": {
+    "jlpt": "n2",
+    "is_common": true,
+    "matched": "ジャーナリスト"
+  },
+  "ドライブ": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "ドライブ"
+  },
+  "お祭り": {
+    "jlpt": "n4",
+    "is_common": false,
+    "matched": "お祭り"
+  },
+  "玩具": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "玩具"
+  },
+  "ルームメイト": {
+    "jlpt": null,
+    "is_common": false,
+    "matched": "ルームメイト"
+  },
+  "授業": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "授業"
+  },
+  "美術館": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "美術館"
+  },
+  "将来": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "将来"
+  },
+  "がっき": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "がっき"
+  },
+  "お大事に": {
+    "jlpt": "n2",
+    "is_common": true,
+    "matched": "お大事に"
+  },
+  "元気がない": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "fallback:元(slug=元)"
+  },
+  "席": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "席"
+  },
+  "政治": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "政治"
+  },
+  "政治家": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "政治家"
+  },
+  "プラス": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "プラス"
+  },
+  "マイナス": {
+    "jlpt": "n2",
+    "is_common": true,
+    "matched": "マイナス"
+  },
+  "お腹": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "お腹"
+  },
+  "喉": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "喉"
+  },
+  "は": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "は"
+  },
+  "晴れ": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "晴れ"
+  },
+  "曇り": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "曇り"
+  },
+  "気温": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "気温"
+  },
+  "お手洗い": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "お手洗い"
+  },
+  "ホームシック": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "ホームシック"
+  },
+  "成績": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "成績"
+  },
+  "試合": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "試合"
+  },
+  "二日酔い": {
+    "jlpt": null,
+    "is_common": false,
+    "matched": "二日酔い"
+  },
+  "神様": {
+    "jlpt": "n2",
+    "is_common": true,
+    "matched": "神様"
+  },
+  "こうべし": {
+    "jlpt": null,
+    "is_common": false,
+    "matched": "fallback:神戸松蔭女子学院大学(slug=神戸松蔭女子学院大学)"
+  },
+  "昔々": {
+    "jlpt": null,
+    "is_common": false,
+    "matched": "昔々"
+  },
+  "旅": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "旅"
+  },
+  "あるいて": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "fallback:歩く(slug=歩く)"
+  },
+  "給料": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "給料"
+  },
+  "筋肉": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "筋肉"
+  },
+  "着": {
+    "jlpt": "n1",
+    "is_common": true,
+    "matched": "着"
+  },
+  "同僚": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "同僚"
+  },
+  "海岸": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "海岸"
+  },
+  "鋳物": {
+    "jlpt": null,
+    "is_common": false,
+    "matched": "鋳物"
+  },
+  "飲料": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "飲料"
+  },
+  "飲料水": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "飲料水"
+  },
+  "お宅": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "お宅"
+  },
+  "ゴルフ": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "ゴルフ"
+  },
+  "セーター": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "セーター"
+  },
+  "咖哩": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "fallback:カレー(slug=咖哩)"
+  },
+  "紅茶": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "紅茶"
+  },
+  "バイオリン": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "バイオリン"
+  },
+  "レポート": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "レポート"
+  },
+  "象": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "象"
+  },
+  "約束": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "約束"
+  },
+  "選手": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "選手"
+  },
+  "野球": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "野球"
+  },
+  "ビル": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "ビル"
+  },
+  "９０年代": {
+    "jlpt": null,
+    "is_common": false,
+    "matched": "９０年代"
+  },
+  "１０代": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "１０代"
+  },
+  "水族館": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "水族館"
+  },
+  "王族": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "王族"
+  },
+  "両親": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "両親"
+  },
+  "英雄": {
+    "jlpt": "n1",
+    "is_common": true,
+    "matched": "英雄"
+  },
+  "発音": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "発音"
+  },
+  "若者": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "若者"
+  },
+  "お会計": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "お会計"
+  },
+  "経験": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "経験"
+  },
+  "予定": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "予定"
+  },
+  "習慣": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "習慣"
+  },
+  "締め切り": {
+    "jlpt": "n2",
+    "is_common": true,
+    "matched": "締め切り"
+  },
+  "番組": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "番組"
+  },
+  "税金": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "税金"
+  },
+  "発表": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "発表"
+  },
+  "保険": {
+    "jlpt": "n1",
+    "is_common": true,
+    "matched": "保険"
+  },
+  "割引券": {
+    "jlpt": null,
+    "is_common": false,
+    "matched": "割引券"
+  },
+  "履歴書": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "履歴書"
+  },
+  "走者": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "走者"
+  },
+  "建物": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "建物"
   }
 }
