@@ -20,10 +20,11 @@ status using the [Jisho.org](https://jisho.org) public API.
 3. Restart Anki
 4. AnkiConnect now listens at `http://localhost:8765`
 
+
 ### 2. Install Python dependency
 
 ```bash
-pip install requests
+uv add requests
 ```
 
 ### 3. Configure defaults (optional)
