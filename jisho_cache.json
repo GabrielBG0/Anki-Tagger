@@ -5338,5 +5338,245 @@
     "jlpt": "n5",
     "is_common": true,
     "matched": "建物"
+  },
+  "供える": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "供える"
+  },
+  "考える": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "考える"
+  },
+  "開く": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "開く"
+  },
+  "運ぶ": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "運ぶ"
+  },
+  "動く": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "動く"
+  },
+  "動かす": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "動かす"
+  },
+  "全く": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "全く"
+  },
+  "全て": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "全て"
+  },
+  "提供": {
+    "jlpt": "n1",
+    "is_common": true,
+    "matched": "提供"
+  },
+  "世界": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "世界"
+  },
+  "世話": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "世話"
+  },
+  "世代": {
+    "jlpt": "n1",
+    "is_common": true,
+    "matched": "世代"
+  },
+  "視界": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "視界"
+  },
+  "限界": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "限界"
+  },
+  "政界": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "政界"
+  },
+  "全部": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "全部"
+  },
+  "全国": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "全国"
+  },
+  "テニス部": {
+    "jlpt": null,
+    "is_common": false,
+    "matched": "fallback:テニスクラブ(slug=テニスクラブ)"
+  },
+  "部長": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "部長"
+  },
+  "開始": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "開始"
+  },
+  "始発": {
+    "jlpt": "n1",
+    "is_common": true,
+    "matched": "始発"
+  },
+  "一週間": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "一週間"
+  },
+  "以外": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "以外"
+  },
+  "以上": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "以上"
+  },
+  "以下": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "以下"
+  },
+  "以内": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "以内"
+  },
+  "以前": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "以前"
+  },
+  "考え": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "考え"
+  },
+  "考古学": {
+    "jlpt": "n1",
+    "is_common": true,
+    "matched": "考古学"
+  },
+  "参考": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "参考"
+  },
+  "開店": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "開店"
+  },
+  "魚屋": {
+    "jlpt": null,
+    "is_common": false,
+    "matched": "魚屋"
+  },
+  "屋上": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "屋上"
+  },
+  "屋内": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "屋内"
+  },
+  "夕方": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "夕方"
+  },
+  "読み方": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "読み方"
+  },
+  "両方": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "両方"
+  },
+  "方法": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "方法"
+  },
+  "運命": {
+    "jlpt": "n1",
+    "is_common": true,
+    "matched": "運命"
+  },
+  "運がいい": {
+    "jlpt": null,
+    "is_common": false,
+    "matched": "運がいい"
+  },
+  "自動車": {
+    "jlpt": "n5",
+    "is_common": true,
+    "matched": "自動車"
+  },
+  "動詞": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "動詞"
+  },
+  "教会": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "教会"
+  },
+  "教科書": {
+    "jlpt": "n3",
+    "is_common": true,
+    "matched": "教科書"
+  },
+  "キリスト教": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "キリスト教"
+  },
+  "研究室": {
+    "jlpt": "n4",
+    "is_common": true,
+    "matched": "研究室"
+  },
+  "地下室": {
+    "jlpt": null,
+    "is_common": true,
+    "matched": "地下室"
+  },
+  "待合室": {
+    "jlpt": "n2",
+    "is_common": true,
+    "matched": "待合室"
   }
 }
